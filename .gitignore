@@ -1,0 +1,24 @@
+# Ignore the contents of the "output" folder
+output/*
+!output/.gitkeep
+
+# Ignore .svs .tiff files (too heavy)
+*.svs
+*.tiff
+# Ignore requirements (depend on backend)
+requirements.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.log
+# Ignorer tous les fichiers se terminant par .png
+*.png
+
+# Ignorer le fichier d'environnement
+.env
