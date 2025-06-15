@@ -1,0 +1,1467 @@
+slide,species,tissue
+GSE148612_GSM5026144,mouse,brain
+GSE148612_GSM5026145,mouse,brain
+GSE148612_GSM5026146,mouse,brain
+GSE148612_GSM5026147,mouse,brain
+GSE148612_GSM5026148,mouse,brain
+GSE148612_GSM5026149,mouse,brain
+GSE153424_GSM4644079,mouse,brain
+GSE153424_GSM4644080,mouse,brain
+GSE153424_GSM4644081,mouse,brain
+GSE153424_GSM4644082,mouse,brain
+GSE153424_GSM4644083,mouse,brain
+GSE153424_GSM4644084,mouse,brain
+GSE153424_GSM4644085,mouse,brain
+GSE153424_GSM4644086,mouse,brain
+GSE153859_GSM4656179,mouse,brain
+GSE153859_GSM4656180,mouse,brain
+GSE153859_GSM4656181,mouse,olfactory bulb
+GSE158450_GSM4800808,mouse,brain
+GSE158730_GSM7770348,mouse,olfactory epithelium
+GSE158730_GSM7770349,mouse,olfactory epithelium
+GSE158730_GSM7770350,mouse,olfactory epithelium
+GSE158730_GSM7770351,mouse,olfactory epithelium
+GSE160137_GSM4861202,mouse,embryo
+GSE160137_GSM4861203,mouse,embryo
+GSE160137_GSM4861204,mouse,embryo
+GSE160137_GSM4861205,mouse,embryo
+GSE173651_GSM5273010,human,skin
+GSE173651_GSM5273011,human,skin
+GSE173651_GSM5273012,human,skin
+GSE173651_GSM5273013,human,skin
+GSE173651_GSM5273014,human,skin
+GSE173651_GSM5273015,human,skin
+GSE174313_GSM5291683,mouse,brain
+GSE174313_GSM5291684,mouse,brain
+GSE174313_GSM5291685,mouse,brain
+GSE174313_GSM5291686,mouse,brain
+GSE178221_GSM5384657,human & mouse,mouse colon and human skin
+GSE178221_GSM5384658,human & mouse,mouse duodenum and human skin
+GSE178221_GSM5384659,human & mouse,mouse heart and human skin
+GSE178361_GSM5388414,human,lung
+GSE178361_GSM5388415,human,lung
+GSE178758_GSM6443210,mouse,skin
+GSE178758_GSM6443211,mouse,skin
+GSE178758_GSM6443212,mouse,skin
+GSE178758_GSM6443213,mouse,skin
+GSE179572_GSM5420749,human,brain
+GSE179572_GSM5420750,human,brain
+GSE179572_GSM5420751,human,brain
+GSE179572_GSM5420752,human,brain
+GSE179572_GSM5420753,human,brain
+GSE179572_GSM5420754,human,brain
+GSE180682_GSM5467944,mouse,digit
+GSE180682_GSM5467945,mouse,digit
+GSE180682_GSM5467946,mouse,digit
+GSE180682_GSM5467947,mouse,digit
+GSE180682_GSM5896868,mouse,digit
+GSE180682_GSM5896869,mouse,digit
+GSE180682_GSM5896870,mouse,digit
+GSE180682_GSM5896871,mouse,digit
+GSE182208_GSM5531131,human,skin
+GSE182939_GSM5543479,mouse,kidney
+GSE182939_GSM5543480,mouse,kidney
+GSE182939_GSM5543481,mouse,kidney
+GSE182939_GSM5543482,mouse,kidney
+GSE182939_GSM5543483,mouse,kidney
+GSE184510_GSM5591748,human,brain
+GSE184510_GSM5591749,human,brain
+GSE184510_GSM5591750,human,brain
+GSE184510_GSM5591751,human,brain
+GSE184510_GSM5591752,human,brain
+GSE184510_GSM5591753,human,brain
+GSE184510_GSM5591754,human,brain
+GSE184510_GSM5591755,human,brain
+GSE186290_GSM5643203,mouse,stomach
+GSE186818_GSM5661565,fish,brain
+GSE188257_GSM5673398,mouse,ovary
+GSE188257_GSM5673399,mouse,ovary
+GSE188257_GSM5673400,mouse,ovary
+GSE188257_GSM5673401,mouse,ovary
+GSE188888_GSM5691526,mouse,heart
+GSE188888_GSM5691527,mouse,heart
+GSE188888_GSM5691528,mouse,heart
+GSE188888_GSM5691529,mouse,heart
+GSE192742_GSM5764414,mouse,liver
+GSE192742_GSM5764415,mouse,liver
+GSE192742_GSM5764416,mouse,liver
+GSE192742_GSM5764417,mouse,liver
+GSE192742_GSM5764418,mouse,liver
+GSE192742_GSM5764419,mouse,liver
+GSE192742_GSM5764420,mouse,liver
+GSE192742_GSM5764421,mouse,liver
+GSE192742_GSM5764422,mouse,liver
+GSE192742_GSM5764424,human,liver
+GSE192742_GSM5764425,human,liver
+GSE192742_GSM5764426,human,liver
+GSE192742_GSM5764427,human,liver
+GSE192742_GSM5764428,human,liver
+GSE193460_GSM5808054,mouse,lung
+GSE193460_GSM5808055,mouse,lung
+GSE193460_GSM5808056,mouse,lung
+GSE193460_GSM5808057,mouse,lung
+GSE194329_GSM5833528,human,glioma
+GSE194329_GSM5833529,human,glioma
+GSE194329_GSM5833530,human,glioma
+GSE194329_GSM5833531,human,glioma
+GSE194329_GSM5833532,human,glioma
+GSE194329_GSM5833533,human,glioma
+GSE194329_GSM5833534,human,glioma
+GSE194329_GSM5833535,human,glioma
+GSE194329_GSM5833536,human,glioma
+GSE194329_GSM5833537,human,glioma
+GSE194329_GSM5833538,human,glioma
+GSE194338_GSM5833739,mouse,brain
+GSE195598_GSM5841550,mouse,lymph node
+GSE195598_GSM5841551,mouse,lymph node
+GSE195598_GSM5841552,mouse,lymph node
+GSE195598_GSM5841553,mouse,lymph node
+GSE197023_GSM5907077,human,skin
+GSE197023_GSM5907078,human,skin
+GSE197023_GSM5907079,human,skin
+GSE197023_GSM5907080,human,skin
+GSE197023_GSM5907081,human,skin
+GSE197023_GSM5907082,human,skin
+GSE197023_GSM5907083,human,skin
+GSE197023_GSM5907084,human,skin
+GSE197023_GSM5907085,human,skin
+GSE197023_GSM5907086,human,skin
+GSE197023_GSM5907088,human,skin
+GSE197023_GSM5907089,human,skin
+GSE197023_GSM5907090,human,skin
+GSE197023_GSM5907091,human,skin
+GSE197023_GSM5907092,human,skin
+GSE197023_GSM5907093,human,skin
+GSE197023_GSM5907094,human,skin
+GSE197023_GSM5907095,human,skin
+GSE197023_GSM5907096,human,skin
+GSE197317_GSM5914539,human,pancreas
+GSE197317_GSM5914540,human,pancreas
+GSE197317_GSM5914541,human,pancreas
+GSE197317_GSM5914542,human,pancreas
+GSE197317_GSM5914543,human,pancreas
+GSE197317_GSM5914544,human,pancreas
+GSE197317_GSM5914545,human,pancreas
+GSE197317_GSM5914546,human,pancreas
+GSE199659_GSM5979972,mouse,muscle
+GSE199659_GSM5979973,mouse,muscle
+GSE199659_GSM5979974,mouse,muscle
+GSE199659_GSM5979975,mouse,muscle
+GSE200720_GSM6042726,mouse,spleen
+GSE200720_GSM6042727,mouse,spleen
+GSE200720_GSM6042728,mouse,spleen
+GSE200720_GSM6042729,mouse,spleen
+GSE200720_GSM6042730,mouse,spleen
+GSE200720_GSM6042731,mouse,spleen
+GSE200720_GSM6042732,mouse,spleen
+GSE200720_GSM6042733,mouse,spleen
+GSE200751_GSM7164986,mouse,melanoma
+GSE200751_GSM7164987,mouse,melanoma
+GSE201610_GSM6068593,mouse,brain
+GSE201610_GSM6068594,mouse,brain
+GSE201610_GSM6068595,mouse,brain
+GSE201610_GSM6068596,mouse,brain
+GSE201610_GSM6068597,mouse,brain
+GSE201610_GSM6068598,mouse,brain
+GSE202322_GSM6108346,mouse,lung
+GSE202322_GSM6108347,mouse,lung
+GSE202322_GSM6108348,mouse,lung
+GSE202322_GSM6108349,mouse,lung
+GSE202322_GSM6108350,mouse,lung
+GSE202322_GSM6108351,mouse,lung
+GSE203424_GSM6171782,mouse,brain
+GSE203424_GSM6171783,mouse,brain
+GSE203424_GSM6171784,mouse,brain
+GSE203424_GSM6171785,mouse,brain
+GSE203424_GSM6171786,mouse,brain
+GSE203424_GSM6171787,mouse,brain
+GSE203424_GSM6171788,mouse,brain
+GSE203424_GSM6171789,mouse,brain
+GSE203424_GSM6171790,mouse,brain
+GSE203424_GSM6171791,mouse,brain
+GSE203424_GSM6171792,mouse,brain
+GSE203424_GSM6171793,mouse,brain
+GSE203612_GSM6177599,human,breast
+GSE203612_GSM6177601,human,breast
+GSE203612_GSM6177603,human,breast
+GSE203612_GSM6177607,human,stomach
+GSE203612_GSM6177609,human,stomach
+GSE203612_GSM6177612,human,liver
+GSE203612_GSM6177614,human,ovary
+GSE203612_GSM6177617,human,ovary
+GSE203612_GSM6177618,human,ovary
+GSE203612_GSM6177623,human,endometrium
+GSE203612_GSM6177624,human & mouse,xenograft
+GSE203612_GSM6177625,human & mouse,xenograft
+GSE205306_GSM6210023,mouse,tissue specimen
+GSE205306_GSM6210024,mouse,tissue specimen
+GSE206552_GSM6256810,human,liver
+GSE206552_GSM6256811,human,liver
+GSE206552_GSM6256812,human,liver
+GSE206552_GSM6256813,human,liver
+GSE206621_GSM6258251,human,mouth
+GSE206621_GSM6258252,human,mouth
+GSE206621_GSM6258253,human,mouth
+GSE206621_GSM6258254,human,mouth
+GSE206621_GSM6258255,human,mouth
+GSE206621_GSM6258256,human,mouth
+GSE206621_GSM6258257,human,mouth
+GSE206621_GSM6258258,human,mouth
+GSE206787_GSM7898096,mouse,heart
+GSE206787_GSM7898097,mouse,heart
+GSE206787_GSM7898098,mouse,heart
+GSE206787_GSM7898099,mouse,heart
+GSE207205_GSM6281320,human,thymus
+GSE207205_GSM6281321,human,thymus
+GSE207205_GSM6281322,human,thymus
+GSE207205_GSM6281323,human,thymus
+GSE207205_GSM6281324,human,thymus
+GSE207205_GSM6281325,human,thymus
+GSE207205_GSM6281326,human,thymus
+GSE207205_GSM6281327,human,thymus
+GSE208253_GSM6339631,human,mouth
+GSE208253_GSM6339632,human,mouth
+GSE208253_GSM6339633,human,mouth
+GSE208253_GSM6339634,human,mouth
+GSE208253_GSM6339635,human,mouth
+GSE208253_GSM6339636,human,mouth
+GSE208253_GSM6339637,human,mouth
+GSE208253_GSM6339638,human,mouth
+GSE208253_GSM6339639,human,mouth
+GSE208253_GSM6339640,human,mouth
+GSE208253_GSM6339641,human,mouth
+GSE208253_GSM6339642,human,mouth
+GSE209583_GSM6380080,mouse,brain
+GSE209583_GSM6380081,mouse,brain
+GSE209583_GSM6380082,mouse,brain
+GSE209583_GSM6380083,mouse,brain
+GSE209583_GSM6380084,mouse,brain
+GSE209583_GSM6380085,mouse,brain
+GSE209583_GSM6380086,mouse,brain
+GSE209583_GSM6380087,mouse,brain
+GSE209583_GSM6380088,mouse,brain
+GSE209583_GSM6380089,mouse,brain
+GSE209583_GSM6380090,mouse,brain
+GSE209583_GSM6380091,mouse,brain
+GSE209583_GSM6380092,mouse,brain
+GSE209583_GSM6380093,mouse,brain
+GSE210616_GSM6433585,human,breast
+GSE210616_GSM6433586,human,breast
+GSE210616_GSM6433587,human,breast
+GSE210616_GSM6433588,human,breast
+GSE210616_GSM6433589,human,breast
+GSE210616_GSM6433590,human,breast
+GSE210616_GSM6433591,human,breast
+GSE210616_GSM6433592,human,breast
+GSE210616_GSM6433593,human,breast
+GSE210616_GSM6433594,human,breast
+GSE210616_GSM6433595,human,breast
+GSE210616_GSM6433596,human,breast
+GSE210616_GSM6433597,human,breast
+GSE210616_GSM6433598,human,breast
+GSE210616_GSM6433599,human,breast
+GSE210616_GSM6433600,human,breast
+GSE210616_GSM6433601,human,breast
+GSE210616_GSM6433602,human,breast
+GSE210616_GSM6433603,human,breast
+GSE210616_GSM6433604,human,breast
+GSE210616_GSM6433605,human,breast
+GSE210616_GSM6433606,human,breast
+GSE210616_GSM6433607,human,breast
+GSE210616_GSM6433608,human,breast
+GSE210616_GSM6433609,human,breast
+GSE210616_GSM6433610,human,breast
+GSE210616_GSM6433611,human,breast
+GSE210616_GSM6433612,human,breast
+GSE210616_GSM6433613,human,breast
+GSE210616_GSM6433614,human,breast
+GSE210616_GSM6433615,human,breast
+GSE210616_GSM6433616,human,breast
+GSE210616_GSM6433617,human,breast
+GSE210616_GSM6433618,human,breast
+GSE210616_GSM6433619,human,breast
+GSE210616_GSM6433620,human,breast
+GSE210616_GSM6433621,human,breast
+GSE210616_GSM6433622,human,breast
+GSE210616_GSM6433623,human,breast
+GSE210616_GSM6433624,human,breast
+GSE210616_GSM6433625,human,breast
+GSE210616_GSM6433626,human,breast
+GSE210616_GSM6433627,human,breast
+GSE211895_GSM6505118,rattus norvegicus,colon
+GSE211895_GSM6505119,rattus norvegicus,colon
+GSE211895_GSM6505120,rattus norvegicus,colon
+GSE211895_GSM6505121,rattus norvegicus,colon
+GSE211895_GSM6505122,rattus norvegicus,colon
+GSE211895_GSM6505123,rattus norvegicus,colon
+GSE211895_GSM6505124,rattus norvegicus,colon
+GSE211895_GSM6505125,rattus norvegicus,colon
+GSE211895_GSM6505126,rattus norvegicus,colon
+GSE211895_GSM6505127,rattus norvegicus,colon
+GSE211895_GSM6505128,rattus norvegicus,colon
+GSE211895_GSM6505129,rattus norvegicus,colon
+GSE211895_GSM6505130,rattus norvegicus,colon
+GSE211895_GSM6505131,rattus norvegicus,colon
+GSE211895_GSM6505132,rattus norvegicus,colon
+GSE211895_GSM6505133,human,pancreas
+GSE211895_GSM6505134,human,pancreas
+GSE211895_GSM6505135,human,pancreas
+GSE211895_GSM6505136,mouse,b16f10 syngeneic tumor
+GSE211895_GSM6505137,mouse,b16f10 syngeneic tumor
+GSE211895_GSM6505138,mouse,b16f10 syngeneic tumor
+GSE211895_GSM6505139,mouse,b16f10 syngeneic tumor
+GSE211895_GSM6505140,mouse,b16f10 syngeneic tumor
+GSE211895_GSM6505141,mouse,b16f10 syngeneic tumor
+GSE211895_GSM6505142,mouse,colon
+GSE211895_GSM6505143,mouse,colon
+GSE211895_GSM6505144,mouse,colon
+GSE211895_GSM6505145,mouse,colon
+GSE211895_GSM6505146,mouse,colon
+GSE212323_GSM6523976,mouse,brain
+GSE212323_GSM6523977,mouse,brain
+GSE212323_GSM6523978,mouse,brain
+GSE212323_GSM6523979,mouse,brain
+GSE212323_GSM6523980,mouse,brain
+GSE212323_GSM6523981,mouse,brain
+GSE212482_GSM6543813,mouse,breast
+GSE212482_GSM6543814,mouse,breast
+GSE212482_GSM6543815,mouse,breast
+GSE212482_GSM6543816,mouse,breast
+GSE212482_GSM6543817,mouse,breast
+GSE212482_GSM6543818,mouse,breast
+GSE212526_GSM6534007,human,undifferentiated pleomorphic sarcoma
+GSE212526_GSM6534008,human,leiomyosarcoma
+GSE212526_GSM6534009,human,undifferentiated pleomorphic sarcoma
+GSE212526_GSM6534010,human,undifferentiated pleomorphic sarcoma
+GSE213666_GSM6591749,mouse,heart
+GSE213688_GSM6592049,human,breast
+GSE213688_GSM6592050,human,breast
+GSE213688_GSM6592051,human,breast
+GSE213688_GSM6592052,human,breast
+GSE213688_GSM6592053,human,breast
+GSE213688_GSM6592054,human,breast
+GSE213688_GSM6592055,human,breast
+GSE213688_GSM6592056,human,breast
+GSE213688_GSM6592057,human,breast
+GSE213688_GSM6592058,human,breast
+GSE213688_GSM6592059,human,breast
+GSE213688_GSM6592060,human,breast
+GSE213688_GSM6592061,human,breast
+GSE213688_GSM6592062,human,breast
+GSE213699_GSM6592131,human,ovary
+GSE213699_GSM6592132,human,ovary
+GSE213699_GSM6592133,human,ovary
+GSE213699_GSM6592134,human,ovary
+GSE213699_GSM6592135,human,ovary
+GSE213699_GSM6592136,human,ovary
+GSE213699_GSM6592137,human,ovary
+GSE213699_GSM6592138,human,ovary
+GSE214363_GSM6604700,mouse,skin
+GSE214363_GSM6604701,mouse,skin
+GSE214571_GSM6612124,human & mouse,breast
+GSE214571_GSM6612125,human & mouse,breast
+GSE214571_GSM6612126,human & mouse,breast
+GSE214571_GSM6612127,human & mouse,breast
+GSE214611_GSM6613077,mouse,heart
+GSE214611_GSM6613078,mouse,heart
+GSE214611_GSM6613079,mouse,heart
+GSE214611_GSM6613080,mouse,heart
+GSE214611_GSM6613082,mouse,heart
+GSE214611_GSM6613083,mouse,heart
+GSE214611_GSM6613084,mouse,heart
+GSE214611_GSM6613085,mouse,heart
+GSE214611_GSM6613086,mouse,heart
+GSE214611_GSM6613088,mouse,heart
+GSE214611_GSM6613089,mouse,heart
+GSE217058_GSM6704280,mouse,brain
+GSE217058_GSM6704281,mouse,brain
+GSE217058_GSM6704282,mouse,brain
+GSE217058_GSM6704283,mouse,brain
+GSE217058_GSM6704284,mouse,brain
+GSE217058_GSM6704285,mouse,brain
+GSE217058_GSM6704286,mouse,brain
+GSE217058_GSM6704287,mouse,brain
+GSE217414_GSM6716963,human,liver
+GSE217414_GSM6716964,human,liver
+GSE217414_GSM6716965,human,liver
+GSE217414_GSM6716966,human,liver
+GSE217843_GSM6727528,mouse,pancreas
+GSE217843_GSM6727529,mouse,pancreas
+GSE218537_GSM6751446,mouse,brain
+GSE218537_GSM6751447,mouse,brain
+GSE220218_GSM6796864,pig,heart
+GSE220218_GSM6796865,pig,heart
+GSE220218_GSM6796866,pig,heart
+GSE220218_GSM6796867,pig,heart
+GSE220978_GSM6833484,human,mouth
+GSE220978_GSM6833485,human,mouth
+GSE220978_GSM6833486,human,mouth
+GSE220978_GSM6833487,human,mouth
+GSE221359_GSM6859066,mouse,liver
+GSE221359_GSM6859067,mouse,liver
+GSE221359_GSM6859068,mouse,liver
+GSE221359_GSM6859069,mouse,liver
+GSE221359_GSM6859070,mouse,liver
+GSE221359_GSM6859071,mouse,liver
+GSE221359_GSM6859072,mouse,liver
+GSE221359_GSM6859073,mouse,liver
+GSE222410_GSM6922983,mouse,brain
+GSE222410_GSM6922984,mouse,brain
+GSE222410_GSM6922985,mouse,brain
+GSE222410_GSM6922986,mouse,brain
+GSE222410_GSM6922987,mouse,brain
+GSE222410_GSM6922988,mouse,brain
+GSE222410_GSM6922989,mouse,brain
+GSE222410_GSM6922990,mouse,brain
+GSE222410_GSM6922991,mouse,brain
+GSE222410_GSM6922992,mouse,brain
+GSE222410_GSM6922993,mouse,brain
+GSE222410_GSM6922994,mouse,brain
+GSE222410_GSM6922995,mouse,brain
+GSE222410_GSM6922996,mouse,brain
+GSE222410_GSM6922997,mouse,brain
+GSE222410_GSM6922998,mouse,brain
+GSE222981_GSM6937699,mouse,brain
+GSE222981_GSM6937700,mouse,brain
+GSE222981_GSM6937701,mouse,brain
+GSE223066_GSM6939154,mouse,brain
+GSE223066_GSM6939155,mouse,brain
+GSE223066_GSM6939156,mouse,brain
+GSE223066_GSM6939157,mouse,brain
+GSE223066_GSM6939158,mouse,brain
+GSE223066_GSM6939159,mouse,brain
+GSE223066_GSM6939160,mouse,brain
+GSE223066_GSM6939161,mouse,brain
+GSE223066_GSM6939162,mouse,brain
+GSE223066_GSM6939163,mouse,brain
+GSE223066_GSM6939164,mouse,brain
+GSE223066_GSM6939165,mouse,brain
+GSE223066_GSM6939166,mouse,brain
+GSE223066_GSM6939167,mouse,brain
+GSE223559_GSM6963115,human,liver
+GSE223559_GSM6963116,human,liver
+GSE223559_GSM6963117,human,liver
+GSE223559_GSM6963119,human,liver
+GSE223559_GSM6963120,human,liver
+GSE223559_GSM6963121,human,liver
+GSE223559_GSM6963122,human,liver
+GSE223559_GSM6963123,human,liver
+GSE223560_GSM6963514,mouse,liver
+GSE223560_GSM6963515,mouse,liver
+GSE223560_GSM6963517,mouse,liver
+GSE223560_GSM6963518,mouse,liver
+GSE223560_GSM6963519,mouse,liver
+GSE223560_GSM6963520,mouse,liver
+GSE223560_GSM6963521,mouse,liver
+GSE223560_GSM6963523,mouse,liver
+GSE223560_GSM6963524,mouse,liver
+GSE223560_GSM6963525,mouse,liver
+GSE223560_GSM6963526,mouse,liver
+GSE224335_GSM7019835,human,ovary
+GSE224335_GSM7019836,human,ovary
+GSE224360_GSM7020543,mouse,brain
+GSE224360_GSM7020544,mouse,brain
+GSE224360_GSM7020545,mouse,brain
+GSE224360_GSM7020546,mouse,brain
+GSE224411_GSM7021870,human,liver
+GSE224411_GSM7021871,human,pancreas
+GSE224411_GSM7021872,human,pancreas
+GSE225766_GSM7055901,mouse,gastrocnemius
+GSE225766_GSM7055902,mouse,gastrocnemius
+GSE225766_GSM7055903,mouse,gastrocnemius
+GSE225766_GSM7055904,mouse,gastrocnemius
+GSE225766_GSM7055905,mouse,gastrocnemius
+GSE225766_GSM7055906,mouse,gastrocnemius
+GSE225766_GSM7055907,mouse,gastrocnemius
+GSE225766_GSM7055908,mouse,gastrocnemius
+GSE225766_GSM7230943,mouse,gastrocnemius
+GSE225766_GSM7230944,mouse,gastrocnemius
+GSE225766_GSM7230945,mouse,gastrocnemius
+GSE226208_GSM7068162,mouse,brain
+GSE226208_GSM7068163,mouse,brain
+GSE226376_GSM7267862,mouse,skin
+GSE226376_GSM7267863,mouse,skin
+GSE226376_GSM7267864,mouse,skin
+GSE226376_GSM7267865,mouse,skin
+GSE226376_GSM7267866,mouse,skin
+GSE226376_GSM7267867,mouse,skin
+GSE226376_GSM7267869,mouse,skin
+GSE226376_GSM7267870,mouse,skin
+GSE226533_GSM7078497,human,kidney
+GSE226533_GSM7078498,human,kidney
+GSE226997_GSM7089855,human,colon
+GSE226997_GSM7089856,human,colon
+GSE226997_GSM7089857,human,colon
+GSE226997_GSM7089858,human,colon
+GSE227019_GSM7090083,human,ovary
+GSE227019_GSM7090084,human,ovary
+GSE227019_GSM7090085,human,ovary
+GSE227019_GSM7090086,human,ovary
+GSE227019_GSM7090087,human,ovary
+GSE227019_GSM7090088,human,ovary
+GSE227045_GSM7090416,mouse,kidney
+GSE228972_GSM7146857,human,joint
+GSE228972_GSM7146858,human,joint
+GSE228972_GSM7146859,human,joint
+GSE228972_GSM7146860,human,joint
+GSE229635_GSM7169587,fish,the main electric organ
+GSE229635_GSM7169588,fish,the main electric organ
+GSE229635_GSM7169589,fish,the main electric organ
+GSE233254_GSM7421780,human,pancreas
+GSE233254_GSM7421781,human,pancreas
+GSE233254_GSM7421782,human,pancreas
+GSE233254_GSM7421783,human,pancreas
+GSE233254_GSM7421784,human,pancreas
+GSE233254_GSM7421785,human,pancreas
+GSE233254_GSM7421786,human,pancreas
+GSE233254_GSM7421787,human,pancreas
+GSE233254_GSM7421788,human,pancreas
+GSE233254_GSM7421789,human,pancreas
+GSE233254_GSM7421790,human,pancreas
+GSE233254_GSM7421791,human,pancreas
+GSE233254_GSM7421792,human,pancreas
+GSE233254_GSM7422460,mouse,pancreas
+GSE233254_GSM7422461,mouse,pancreas
+GSE233512_GSM7429786,mouse,kidney
+GSE233512_GSM7429787,mouse,kidney
+GSE233512_GSM7429788,mouse,kidney
+GSE233512_GSM7429789,mouse,kidney
+GSE235672_GSM7507311,human,brain
+GSE235672_GSM7507312,human,brain
+GSE235672_GSM7507313,human,brain
+GSE235672_GSM7507314,human,brain
+GSE235672_GSM7507315,human,brain
+GSE235672_GSM7507316,human,brain
+GSE235672_GSM7507317,human,brain
+GSE235672_GSM7507318,human,brain
+GSE235672_GSM7507319,human,brain
+GSE235672_GSM7507320,human,brain
+GSE235672_GSM7507321,human,brain
+GSE235672_GSM7507322,human,brain
+GSE235672_GSM7507323,human,brain
+GSE235672_GSM7507324,human,brain
+GSE235672_GSM7507325,human,brain
+GSE235672_GSM7507326,human,brain
+GSE235742_GSM7508783,mouse,colon
+GSE235742_GSM7508784,mouse,colon
+GSE235742_GSM7508785,mouse,colon
+GSE236424_GSM7536059,mouse,liver
+GSE236424_GSM7536060,mouse,liver
+GSE236424_GSM7536061,mouse,liver
+GSE236424_GSM7536062,mouse,liver
+GSE236424_GSM7536063,mouse,liver
+GSE236424_GSM7536065,mouse,liver
+GSE236424_GSM7536066,mouse,liver
+GSE236424_GSM7536067,mouse,liver
+GSE236424_GSM7536068,mouse,liver
+GSE236424_GSM7536070,mouse,liver
+GSE236424_GSM7536071,mouse,liver
+GSE236424_GSM7536072,mouse,liver
+GSE236424_GSM7536073,mouse,liver
+GSE236424_GSM7536075,mouse,liver
+GSE236424_GSM7536076,mouse,liver
+GSE236424_GSM7536077,mouse,liver
+GSE236424_GSM7536078,mouse,liver
+GSE236424_GSM7536079,mouse,liver
+GSE236424_GSM7536080,mouse,liver
+GSE236424_GSM7536081,mouse,liver
+GSE236424_GSM7536082,mouse,liver
+GSE236424_GSM7536084,mouse,liver
+GSE236424_GSM7536085,mouse,liver
+GSE237183_GSM7596587,human,glioblastoma
+GSE237183_GSM7596588,human,glioblastoma
+GSE237183_GSM7596589,human,glioblastoma
+GSE237183_GSM7596590,human,glioblastoma
+GSE237183_GSM7596591,human,glioblastoma
+GSE237183_GSM7596592,human,glioblastoma
+GSE237183_GSM7596593,human,glioblastoma
+GSE237183_GSM7596594,human,glioblastoma
+GSE237183_GSM7596595,human,glioblastoma
+GSE237183_GSM7596596,human,glioblastoma
+GSE237183_GSM7596597,human,glioblastoma
+GSE237183_GSM7596598,human,glioblastoma
+GSE237183_GSM7596599,human,glioblastoma
+GSE237183_GSM7596600,human,glioma
+GSE237183_GSM7596601,human,glioma
+GSE237183_GSM7596602,human,glioma
+GSE237183_GSM7596603,human,glioma
+GSE237183_GSM7596604,human,glioma
+GSE237183_GSM7596605,human,glioma
+GSE237771_GSM7648697,human,skin
+GSE237771_GSM7648698,human,skin
+GSE237771_GSM7648699,human,skin
+GSE237771_GSM7648700,human,skin
+GSE240102_GSM7681546,plant,root
+GSE240102_GSM7681547,plant,root
+GSE240102_GSM7681548,plant,root
+GSE240102_GSM7681549,plant,root
+GSE240102_GSM7681550,plant,root
+GSE240102_GSM7681551,plant,root
+GSE240102_GSM7681552,plant,root
+GSE240102_GSM7681553,plant,root
+GSE240102_GSM7681554,plant,root
+GSE240102_GSM7681555,plant,root
+GSE240102_GSM7681556,plant,root
+GSE240102_GSM7681557,plant,root
+GSE240102_GSM7681558,plant,root
+GSE240102_GSM7681559,plant,root
+GSE240102_GSM7681560,plant,root
+GSE240102_GSM7681561,plant,root
+GSE240102_GSM7681562,plant,root
+GSE240102_GSM7681563,plant,root
+GSE240102_GSM7681564,plant,root
+GSE240715_GSM7708218,mouse,brain
+GSE240715_GSM7708219,mouse,brain
+GSE240715_GSM7708220,mouse,brain
+GSE240715_GSM7708221,mouse,brain
+GSE242270_GSM7757568,human,kidney
+GSE242270_GSM7757569,pig,kidney
+GSE242311_GSM7757970,human,breast
+GSE242311_GSM7757971,human,breast
+GSE242311_GSM7757972,human,breast
+GSE242311_GSM7757973,human,breast
+GSE242311_GSM7757974,human,breast
+GSE242311_GSM7757975,human,breast
+GSE242311_GSM7757976,human,breast
+GSE242311_GSM7757977,human,breast
+GSE242311_GSM7757978,human,breast
+GSE242311_GSM7757979,human,breast
+GSE242311_GSM7757980,human,breast
+GSE242311_GSM7757981,human,breast
+GSE242311_GSM7757982,human,breast
+GSE242311_GSM7757983,human,breast
+GSE242311_GSM7757984,human,breast
+GSE242311_GSM7757985,human,breast
+GSE243179_GSM7780296,human,heart
+GSE243179_GSM7780297,human,heart
+GSE243225_GSM7781044,ambystoma mexicanum,arm
+GSE243291_GSM7782914,human,muscle
+GSE243291_GSM7782915,human,muscle
+GSE243367_GSM7784328,human,liver
+GSE243367_GSM7784329,human,liver
+GSE243367_GSM7784330,human,liver
+GSE243367_GSM7784331,human,liver
+GSE243367_GSM7784332,human,liver
+GSE243367_GSM7784333,human,liver
+GSE243367_GSM7784334,human,liver
+GSE243367_GSM7784335,human,liver
+GSE243367_GSM7784336,human,liver
+GSE244534_GSM7818789,mouse,pancreas
+GSE244534_GSM7818790,mouse,pancreas
+GSE244534_GSM7818791,mouse,pancreas
+GSE244534_GSM7818792,mouse,pancreas
+GSE245097_GSM7836297,mouse,tendon
+GSE245097_GSM7836298,mouse,tendon
+GSE245097_GSM7836299,mouse,tendon
+GSE245097_GSM7836300,mouse,tendon
+GSE245110_GSM7836925,mouse,lymph node
+GSE245110_GSM7836926,mouse,lymph node
+GSE245110_GSM7836927,mouse,lymph node
+GSE245110_GSM7836928,mouse,lymph node
+GSE245263_GSM7839621,mouse,brain
+GSE245313_GSM7840724,frog,tail
+GSE245313_GSM7840725,frog,tail
+GSE245313_GSM7840726,frog,tail
+GSE245388_GSM7841727,human,prostate
+GSE245388_GSM7841728,human,prostate
+GSE245388_GSM7841729,human,prostate
+GSE245388_GSM7841730,human,prostate
+GSE245388_GSM7841731,human,prostate
+GSE245388_GSM7841732,human,prostate
+GSE245388_GSM7841733,human,prostate
+GSE245388_GSM7841734,human,prostate
+GSE248356_GSM7911966,mouse,melanoma
+GSE248356_GSM7911967,mouse,melanoma
+GSE248356_GSM7911968,mouse,melanoma
+GSE248646_GSM7918345,rattus norvegicus,tendon
+GSE248646_GSM7918346,rattus norvegicus,tendon
+GSE249729_GSM7962127,human,skin
+GSE249729_GSM7962128,human,skin
+GSE249729_GSM7962129,human,skin
+GSE251693_GSM7986081,human,colon
+GSE251693_GSM7986082,human,colon
+GSE251950_GSM7990473,human,stomach
+GSE251950_GSM7990474,human,stomach
+GSE251950_GSM7990475,human,stomach
+GSE251950_GSM7990476,human,stomach
+GSE251950_GSM7990477,human,stomach
+GSE251950_GSM7990478,human,stomach
+GSE251950_GSM7990479,human,stomach
+GSE251950_GSM7990480,human,stomach
+GSE251950_GSM7990481,human,stomach
+GSE251950_GSM7990482,human,stomach
+GSE254364_GSM8041061,human,liver
+GSE254364_GSM8041062,human,liver
+GSE254652_GSM8047864,mouse,spleen
+GSE254652_GSM8047865,mouse,spleen
+GSE254652_GSM8047866,mouse,spleen
+GSE254652_GSM8047867,mouse,spleen
+GSE254652_GSM8047868,mouse,spleen
+GSE254652_GSM8047869,mouse,spleen
+GSE254652_GSM8047870,mouse,spleen
+GSE254652_GSM8047871,mouse,spleen
+GSE254652_GSM8047872,mouse,spleen
+GSE254652_GSM8047873,mouse,spleen
+GSE254652_GSM8047874,mouse,spleen
+GSE254652_GSM8047875,mouse,spleen
+GSE254652_GSM8047876,mouse,spleen
+GSE254652_GSM8047877,mouse,spleen
+GSE254652_GSM8047878,mouse,spleen
+GSE254652_GSM8047879,mouse,spleen
+GSE254652_GSM8047880,mouse,spleen
+GSE254652_GSM8047881,mouse,spleen
+GSE254652_GSM8047882,mouse,spleen
+GSE254652_GSM8047883,mouse,spleen
+GSE254652_GSM8047884,mouse,spleen
+GSE254652_GSM8047885,mouse,spleen
+GSE254652_GSM8047886,mouse,spleen
+GSE254829_GSM8058242,human,pancreas
+GSE254829_GSM8058243,human,pancreas
+GSE254829_GSM8058244,human,pancreas
+GSE254829_GSM8058245,human,pancreas
+GSE254829_GSM8058246,human,pancreas
+GSE254829_GSM8058247,human,pancreas
+GSE254829_GSM8058248,human,pancreas
+GSE254829_GSM8058249,human,pancreas
+GSE254829_GSM8058250,human,pancreas
+GSE254829_GSM8058251,human,pancreas
+GSE254829_GSM8058252,human,pancreas
+GSE254829_GSM8058253,human,pancreas
+GSE254829_GSM8058254,human,pancreas
+GSE254829_GSM8058255,human,pancreas
+GSE259363_GSM8114827,mouse,liver
+GSE259363_GSM8114828,mouse,liver
+GSE259363_GSM8114829,mouse,liver
+GSE259363_GSM8114830,mouse,liver
+Human_Brain+Kidney_10X_02212023_Visium,human,brain+kidney
+Human_Brain_10X_02132023_Visium,human,brain
+Human_Brain_10X_10272020_Visium_Cerebellum_WholeTranscriptome,human,brain
+Human_Brain_10X_10272020_Visium_WholeTranscriptome,human,brain
+Human_Brain_Kwon_10162023_Visium_V10A27004_A1_Br3874,human,brain
+Human_Brain_Kwon_10162023_Visium_V10A27004_D1_Br3880,human,brain
+Human_Brain_Kwon_10162023_Visium_V10A27106_A1_Br3874,human,brain
+Human_Brain_Kwon_10162023_Visium_V10A27106_B1_Br3854,human,brain
+Human_Brain_Kwon_10162023_Visium_V10A27106_C1_Br3873,human,brain
+Human_Brain_Kwon_10162023_Visium_V10A27106_D1_Br3880,human,brain
+Human_Brain_Kwon_10162023_Visium_V10T31036_A1_Br3874,human,brain
+Human_Brain_Kwon_10162023_Visium_V10T31036_B1_Br3854,human,brain
+Human_Brain_Kwon_10162023_Visium_V10T31036_C1_Br3873,human,brain
+Human_Brain_Kwon_10162023_Visium_V10T31036_D1_Br3880,human,brain
+Human_Brain_Louise_02152023_Visium_Br2720_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br2720_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br2720_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br2743_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br2743_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br2743_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br3942_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br3942_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br3942_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br6423_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br6423_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br6423_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br6432_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br6432_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br6432_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br6471_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br6471_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br6471_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br6522_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br6522_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br6522_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br8325_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br8325_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br8325_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br8492_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br8492_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br8492_post,human,brain
+Human_Brain_Louise_02152023_Visium_Br8667_ant,human,brain
+Human_Brain_Louise_02152023_Visium_Br8667_mid,human,brain
+Human_Brain_Louise_02152023_Visium_Br8667_post,human,brain
+Human_Breast_10X_02132023_Visium,human,breast
+Human_Breast_10X_06092021_Visium,human,breast
+Human_Breast_10X_06232020_Visium_Block_A_Section_1,human,breast
+Human_Breast_10X_06232020_Visium_Block_A_Section_2,human,breast
+Human_Breast_10X_07012022_Visium,human,breast
+Human_Breast_10X_10272020_Visium_WholeTranscriptome,human,breast
+Human_Breast_Wu_06052021_Visium_1142243F,human,breast
+Human_Breast_Wu_06052021_Visium_1160920F,human,breast
+Human_Breast_Wu_06052021_Visium_CID4465,human,breast
+Human_Breast_Wu_06052021_Visium_CID44971,human,breast
+Human_Breast_Wu_06052021_Visium_CID4535,human,breast
+Human_Cerebellum_10X_07122022_Visium,human,cerebellum
+Human_Cervix_10X_03282022_Visium,human,cervix
+Human_Colon_10X_10052023_Visium_control_rep1,human,colon
+Human_Colon_10X_10052023_Visium_control_rep2,human,colon
+Human_Colon_10X_10052023_Visium_post_xenium_rep1,human,colon
+Human_Colon_10X_10052023_Visium_post_xenium_rep2,human,colon
+Human_Colorectal_10X_02132023_Visium,human,colorectal
+Human_Heart_10X_06232020_Visium,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK001_157785,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK002_157779,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK002_157781,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK002_157782,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK003_157775,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK003_157777,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK004_157772,human,heart
+Human_Heart_Kuppe_10082022_Visium_AKK006_157771,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_10_CK288,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_11_CK289,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_12_CK290,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_13_CK291,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_14_CK292,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_15_CK293,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_16_CK294,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_17_CK295,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_18_CK296,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_19_CK297,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_1_CK279,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_20_CK298,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_2_CK280,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_3_CK281,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_4_CK282,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_5_CK283,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_6_CK284,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_7_CK285,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_8_CK286,human,heart
+Human_Heart_Kuppe_10082022_Visium_Visium_9_CK287,human,heart
+Human_Kidney_10X_02132023_Visium,human,kidney
+Human_LargeIntestine_10X_03282022_Visium,human,largeintestine
+Human_LargeIntestine_10X_10272020_Visium_WholeTranscriptome,human,largeintestine
+Human_Lung_10X_02132023_Visium,human,lung
+Human_Lung_10X_07132022_Visium,human,lung
+Human_Ovary_10X_03282022_Visium,human,ovary
+Human_Ovary_10X_07142022_Visium,human,ovary
+Human_Prostate_10X_06092021_Visium_cancer,human,prostate
+Human_Prostate_10X_06092021_Visium_normal,human,prostate
+Human_Prostate_10X_07122022_Visium,human,prostate
+Human_Prostate_10X_10082021_Visium,human,prostate
+Mouse_Brain+Lung_10X_02212023_Visium_1mm_edge,mouse,brain+lung
+Mouse_Brain+Lung_10X_02212023_Visium_2mm_edge,mouse,brain+lung
+Mouse_Brain_10X_01062023_Visium,mouse,brain
+Mouse_Brain_10X_03292022_Visium,mouse,brain
+Mouse_Brain_10X_05252023_Visium,mouse,brain
+Mouse_Brain_10X_06082023_Visium_FFPE_Sagittal_Mouse_Brain,mouse,brain
+Mouse_Brain_10X_06082023_Visium_Fixed_Frozen_Sagittal_Mouse_Brain,mouse,brain
+Mouse_Brain_10X_06082023_Visium_Fresh_Frozen_Sagittal_Mouse_Brain,mouse,brain
+Mouse_Brain_10X_06232020_Visium_Coronal,mouse,brain
+Mouse_Brain_10X_06232020_Visium_Sagittal_Anterior_Section_1,mouse,brain
+Mouse_Brain_10X_06232020_Visium_Sagittal_Anterior_Section_2,mouse,brain
+Mouse_Brain_10X_06232020_Visium_Sagittal_Posterior_Section_1,mouse,brain
+Mouse_Brain_10X_06232020_Visium_Sagittal_Posterior_Section_2,mouse,brain
+Mouse_Brain_10X_07122022_Visium_Sagittal_Anterior_Section_2,mouse,brain
+Mouse_Brain_10X_07122022_Visium_Sagittal_Posterior_Section_2,mouse,brain
+Mouse_Brain_10X_07132022_Visium_coronal_sec1,mouse,brain
+Mouse_Brain_10X_07132022_Visium_coronal_sec2,mouse,brain
+Mouse_Brain_10X_08162021_Visium,mouse,brain
+Mouse_Brain_10X_10052023_Visium_control_rep1,mouse,brain
+Mouse_Brain_10X_10052023_Visium_control_rep2,mouse,brain
+Mouse_Brain_10X_10052023_Visium_post_xenium_rep1,mouse,brain
+Mouse_Brain_10X_10052023_Visium_post_xenium_rep2,mouse,brain
+Mouse_Brain_10X_10182022_Visium,mouse,brain
+Mouse_Embryo_10X_05252023_Visium,mouse,embryo
+Mouse_Embryo_10X_07142022_Visium,mouse,embryo
+Mouse_Kidney_10X_06232020_Visium,mouse,kidney
+Mouse_Kidney_10X_08162021_Visium,mouse,kidney
+Mouse_OlfactoryBulb_10X_03242022_Visium,mouse,olfactory bulb
+TENX152,human,bowel
+ZEN81,Mus musculus,skin
+ZEN80,Mus musculus,skin
+ZEN79,Mus musculus,skin
+ZEN78,Mus musculus,skin
+MISC142,human,heart
+MISC141,human,heart
+MISC140,human,heart
+MISC139,human,heart
+MISC138,human,heart
+MISC136,human,heart
+MISC135,human,heart
+MISC134,human,heart
+MISC133,human,heart
+MISC132,human,heart
+MISC131,human,heart
+MISC130,human,heart
+MISC129,human,heart
+MISC128,human,heart
+MISC127,human,heart
+MISC126,human,heart
+MISC125,human,heart
+MISC124,human,heart
+MISC123,human,heart
+MISC122,human,heart
+MISC121,human,heart
+MISC120,human,heart
+MISC119,human,heart
+MISC118,human,heart
+MISC117,human,heart
+MISC116,human,heart
+MISC115,human,heart
+MISC114,human,heart
+MISC113,human,heart
+MISC112,human,heart
+MISC111,human,heart
+MISC110,human,heart
+MISC109,human,heart
+MISC108,human,heart
+MISC107,human,heart
+MISC106,human,heart
+MISC105,human,heart
+MISC104,human,heart
+MISC103,human,heart
+MISC102,human,heart
+MISC101,human,heart
+MISC73,human,bowel
+MISC72,human,bowel
+MISC71,human,bowel
+MISC70,human,bowel
+MISC69,human,bowel
+MISC68,human,bowel
+MISC67,human,bowel
+MISC66,human,bowel
+MISC65,human,bowel
+MISC64,human,bowel
+MISC63,human,bowel
+MISC62,human,bowel
+MISC61,human,bowel
+MISC60,human,bowel
+MISC59,human,bowel
+MISC58,human,bowel
+MISC57,human,bowel
+MISC56,human,bowel
+MISC55,human,bowel
+MISC54,human,bowel
+MISC53,human,bowel
+MISC52,human,bowel
+MISC51,human,bowel
+MISC50,human,bowel
+MISC49,human,bowel
+MISC48,human,bowel
+MISC47,human,bowel
+MISC46,human,bowel
+MISC45,human,bowel
+MISC44,human,bowel
+MISC43,human,bowel
+MISC42,human,bowel
+MISC41,human,bowel
+MISC40,human,bowel
+MISC39,human,bowel
+MISC38,human,bowel
+MISC37,human,bowel
+MISC36,human,bowel
+MISC35,human,bowel
+MISC34,human,bowel
+MISC33,human,bowel
+TENX92,human,bowel
+TENX91,human,bowel
+TENX90,human,bowel
+TENX89,human,bowel
+TENX88,Mus musculus,brain
+TENX87,Mus musculus,brain
+TENX86,Mus musculus,brain
+TENX85,Mus musculus,brain
+TENX84,Mus musculus,brain
+TENX83,Mus musculus,brain
+TENX82,Mus musculus,brain
+TENX81,Mus musculus,embryo
+TENX80,Mus musculus,brain
+TENX79,Mus musculus,brain
+TENX78,Mus musculus,brain
+TENX77,Mus musculus,brain
+TENX76,Mus musculus,lung/brain
+TENX75,Mus musculus,kidney/brain
+TENX74,Mus musculus,lung/brain
+TENX73,human,brain
+TENX72,human,lung
+TENX71,human,kidney
+TENX70,human,bowel
+TENX69,Mus musculus,brain
+TENX68,human,breast
+TENX67,Mus musculus,brain
+TENX65,human,ovary
+TENX62,human,lung
+TENX61,Mus musculus,brain
+TENX60,Mus musculus,brain
+TENX58,Mus musculus,brain
+TENX56,human,brain
+TENX55,Mus musculus,brain
+TENX54,Mus musculus,brain
+TENX53,human,breast
+TENX52,Mus musculus,brain
+TENX51,human,ovary
+TENX50,human,cervix
+TENX49,human,bowel
+TENX46,human,prostate
+TENX45,Mus musculus,kidney
+TENX43,Mus musculus,brain
+TENX41,human,prostate
+TENX40,human,prostate
+TENX39,human,breast
+TENX31,human,brain
+TENX30,human,brain
+TENX29,human,bowel
+TENX28,human,bowel
+TENX27,human,brain
+TENX24,human,breast
+TENX23,human,breast
+TENX22,Mus musculus,kidney
+TENX19,Mus musculus,brain
+TENX18,Mus musculus,brain
+TENX16,human,lymph node
+TENX15,human,heart
+TENX14,human,breast
+TENX13,human,breast
+ZEN65,Mus musculus,skin
+ZEN61,Mus musculus,brain
+ZEN60,Mus musculus,brain
+ZEN49,human,bowel
+ZEN48,human,bowel
+ZEN47,human,bowel
+ZEN46,human,bowel
+ZEN45,human,bowel
+ZEN44,human,bowel
+ZEN43,human,bowel
+ZEN42,human,bowel
+ZEN41,human,bowel
+ZEN40,human,bowel
+ZEN39,human,bowel
+ZEN38,human,bowel
+ZEN37,human,bowel
+ZEN36,human,bowel
+INT35,human,prostate
+INT28,human,prostate
+INT27,human,prostate
+INT26,human,prostate
+INT25,human,prostate
+INT24,human,kidney
+INT23,human,kidney
+INT22,human,kidney
+INT21,human,kidney
+INT20,human,kidney
+INT19,human,kidney
+INT18,human,kidney
+INT17,human,kidney
+INT16,human,kidney
+INT15,human,kidney
+INT14,human,kidney
+INT13,human,kidney
+INT12,human,kidney
+INT11,human,kidney
+INT10,human,kidney
+INT9,human,kidney
+INT8,human,kidney
+INT7,human,kidney
+INT6,human,kidney
+INT5,human,kidney
+INT4,human,kidney
+INT3,human,kidney
+INT2,human,kidney
+INT1,human,kidney
+MEND162,human,prostate
+MEND161,human,prostate
+MEND160,human,prostate
+MEND159,human,prostate
+MEND158,human,prostate
+MEND157,human,prostate
+MEND156,human,prostate
+MEND154,human,prostate
+MEND153,human,prostate
+MEND152,human,prostate
+MEND151,human,prostate
+MEND150,human,prostate
+MEND149,human,prostate
+MEND148,human,prostate
+MEND147,human,prostate
+MEND146,human,prostate
+MEND145,human,prostate
+MEND144,human,prostate
+MEND143,human,prostate
+MEND142,human,prostate
+MEND141,human,prostate
+MEND140,human,prostate
+MEND139,human,prostate
+MEND131,Mus musculus,brain
+MEND130,Mus musculus,brain
+MEND129,Mus musculus,brain
+MEND124,Mus musculus,brain
+MEND123,Mus musculus,brain
+MEND96,human,bowel
+MEND95,human,bowel
+MEND93,human,bowel
+MEND92,human,bowel
+MEND91,human,bowel
+MEND90,human,lung
+MEND89,human,lung
+MEND88,human,lung
+MEND87,human,lung
+MEND86,human,lung
+MEND85,human,lung
+MEND84,Mus musculus,bone
+MEND83,Mus musculus,bone
+MEND82,Mus musculus,bone
+MEND81,Mus musculus,bone
+MEND80,Mus musculus,bone
+MEND79,Mus musculus,bone
+MEND78,Mus musculus,brain
+MEND77,Mus musculus,brain
+MEND76,Mus musculus,brain
+MEND75,Mus musculus,brain
+MEND74,Mus musculus,brain
+MEND73,Mus musculus,brain
+MEND72,Mus musculus,brain
+MEND71,Mus musculus,brain
+MEND68,human,brain
+MEND67,human,brain
+MEND66,human,brain
+MEND65,human,brain
+MEND64,human,brain
+MEND63,human,brain
+MEND62,human,prostate
+MEND61,human,prostate
+MEND60,human,prostate
+MEND59,human,prostate
+MEND55,Mus musculus,brain
+MEND54,human,kidney
+MEND53,Mus musculus,brain
+MEND52,human,lung
+MEND51,human,lung
+MEND50,Mus musculus,brain
+MEND49,human,kidney
+MEND48,human,kidney
+MEND47,human,lung
+MEND46,Mus musculus,brain
+MEND45,human,lung
+MEND44,Mus musculus,brain
+MEND43,Mus musculus,brain
+MEND42,Mus musculus,brain
+MEND41,human,lung
+MEND40,human,skin
+MEND39,human,skin
+MEND38,human,skin
+MEND37,human,skin
+MEND36,human,bowel
+MEND35,human,bowel
+MEND34,human,bowel
+MEND33,human,bowel
+MEND32,Mus musculus,bowel
+MEND31,Mus musculus,bowel
+MEND30,Mus musculus,bowel
+MEND29,Mus musculus,bowel
+MEND28,Mus musculus,heart
+MEND27,Mus musculus,heart
+MEND26,Mus musculus,heart
+MEND25,Mus musculus,heart
+NCBI855,human,bladder
+NCBI854,human,bladder
+NCBI844,Mus musculus,liver
+NCBI843,Mus musculus,liver
+NCBI842,Mus musculus,liver
+NCBI841,Mus musculus,liver
+NCBI840,Mus musculus,liver
+NCBI839,Mus musculus,liver
+NCBI838,Mus musculus,liver
+NCBI837,Mus musculus,liver
+NCBI836,Mus musculus,liver
+NCBI835,Mus musculus,liver
+NCBI834,Mus musculus,liver
+NCBI833,human,liver
+NCBI832,human,liver
+NCBI831,human,liver
+NCBI830,human,liver
+NCBI829,human,liver
+NCBI828,human,liver
+NCBI827,human,liver
+NCBI826,human,liver
+NCBI809,Mus musculus,brain
+NCBI808,Mus musculus,brain
+NCBI807,Mus musculus,brain
+NCBI806,Mus musculus,brain
+NCBI802,Mus musculus,brain
+NCBI801,Mus musculus,brain
+NCBI800,Mus musculus,brain
+NCBI799,Mus musculus,brain
+NCBI796,Mus musculus,muscle
+NCBI795,Mus musculus,muscle
+NCBI794,Mus musculus,muscle
+NCBI793,Mus musculus,prostate
+NCBI792,Mus musculus,prostate
+NCBI791,Mus musculus,placenta
+NCBI790,Mus musculus,uterus
+NCBI789,Mus musculus,uterus
+NCBI788,Mus musculus,uterus
+NCBI822,Mus musculus,uterus
+NCBI823,Mus musculus,uterus
+NCBI824,Mus musculus,uterus
+NCBI825,Mus musculus,uterus
+NCBI787,Mus musculus,heart
+NCBI786,Mus musculus,heart
+NCBI776,human,breast
+NCBI771,human,eye
+NCBI729,Mus musculus,bowel
+NCBI728,Mus musculus,bowel
+NCBI727,Mus musculus,lung
+NCBI720,Mus musculus,brain
+NCBI719,Mus musculus,brain
+NCBI718,Mus musculus,brain
+NCBI717,Mus musculus,brain
+NCBI716,Mus musculus,brain
+NCBI715,Mus musculus,brain
+NCBI714,human,kidney
+NCBI713,human,kidney
+NCBI712,human,kidney
+NCBI711,human,kidney
+NCBI710,human,kidney
+NCBI709,human,kidney
+NCBI708,human,kidney
+NCBI707,human,kidney
+NCBI706,human,kidney
+NCBI705,human,kidney
+NCBI704,human,kidney
+NCBI703,human,kidney
+NCBI702,human,kidney
+NCBI701,human,kidney
+NCBI700,human,kidney
+NCBI699,human,kidney
+NCBI698,human,kidney
+NCBI697,human,kidney
+NCBI696,human,kidney
+NCBI695,human,kidney
+NCBI694,human,kidney
+NCBI693,human,kidney
+NCBI692,human,kidney
+NCBI691,human,uterus
+NCBI690,human,uterus
+NCBI689,Mus musculus,skin
+NCBI688,Mus musculus,skin
+NCBI687,Mus musculus,skin
+NCBI686,Mus musculus,bowel
+NCBI685,Mus musculus,bowel
+NCBI684,human,lymph node
+NCBI683,human,lymph node
+NCBI682,human,lymph node
+NCBI681,human,lymph node
+NCBI680,Mus musculus,muscle
+NCBI675,human,liver
+NCBI674,human,liver
+NCBI673,human,liver
+NCBI672,human,liver
+NCBI671,Mus musculus,brain
+NCBI670,Mus musculus,brain
+NCBI669,Mus musculus,brain
+NCBI668,Mus musculus,brain
+NCBI667,Mus musculus,brain
+NCBI666,Mus musculus,brain
+NCBI665,Mus musculus,brain
+NCBI664,Mus musculus,brain
+NCBI663,Mus musculus,brain
+NCBI662,Mus musculus,brain
+NCBI661,Mus musculus,brain
+NCBI660,Mus musculus,brain
+NCBI659,Mus musculus,brain
+NCBI658,Mus musculus,brain
+NCBI657,human,brain
+NCBI656,human,brain
+NCBI655,human,brain
+NCBI654,human,brain
+NCBI653,human,brain
+NCBI652,Mus musculus,muscle
+NCBI651,Mus musculus,muscle
+NCBI650,Mus musculus,muscle
+NCBI649,Mus musculus,muscle
+NCBI648,Mus musculus,muscle
+NCBI647,Mus musculus,muscle
+NCBI646,Mus musculus,muscle
+NCBI643,human,liver
+NCBI642,human,liver
+NCBI641,human,brain
+NCBI640,human,brain
+NCBI639,human,brain
+NCBI638,human,brain
+NCBI637,human,brain
+NCBI636,human,brain
+NCBI635,human,brain
+NCBI634,human,brain
+NCBI633,human,brain
+NCBI632,human,brain
+NCBI631,human,brain
+NCBI630,human,brain
+NCBI629,human,brain
+NCBI628,human,brain
+NCBI627,Mus musculus,liver
+NCBI626,Mus musculus,liver
+NCBI625,Mus musculus,liver
+NCBI624,Mus musculus,liver
+NCBI623,Mus musculus,liver
+NCBI622,Mus musculus,liver
+NCBI621,Mus musculus,liver
+NCBI620,Mus musculus,liver
+NCBI619,Mus musculus,liver
+NCBI618,Mus musculus,liver
+NCBI603,human,bladder
+NCBI602,human,bladder
+NCBI601,human,bladder
+NCBI600,human,bladder
+NCBI599,human,kidney
+NCBI598,Mus musculus,kidney
+NCBI597,Mus musculus,kidney
+NCBI596,Mus musculus,kidney
+NCBI595,human,eye
+NCBI594,human,eye
+NCBI593,human,eye
+NCBI592,human,eye
+NCBI591,human,eye
+NCBI576,human,uterus
+NCBI575,human,uterus
+NCBI574,human,uterus
+NCBI573,human,uterus
+NCBI821,human,uterus
+NCBI820,human,uterus
+NCBI819,human,uterus
+NCBI818,human,uterus
+NCBI817,human,uterus
+NCBI816,human,uterus
+NCBI815,human,uterus
+NCBI814,human,uterus
+NCBI813,human,uterus
+NCBI812,human,uterus
+NCBI811,human,uterus
+NCBI572,human,pancreas
+NCBI571,human,pancreas
+NCBI570,human,pancreas
+NCBI569,human,pancreas
+NCBI568,human,kidney
+NCBI567,human,kidney
+NCBI566,human,kidney
+NCBI565,human,kidney
+NCBI564,human,kidney
+NCBI563,human,kidney
+NCBI562,human,kidney
+NCBI543,Mus musculus,heart
+NCBI542,Mus musculus,heart
+NCBI540,human,kidney
+NCBI539,human,kidney
+NCBI538,human,kidney
+NCBI537,human,lung
+NCBI536,human,lung
+NCBI535,human,lung
+NCBI534,human,lung
+NCBI533,Mus musculus,brain
+NCBI532,Mus musculus,brain
+NCBI531,Mus musculus,brain
+NCBI530,Mus musculus,brain
+NCBI529,Mus musculus,brain
+NCBI528,Mus musculus,brain
+NCBI527,Mus musculus,brain
+NCBI526,human,skin
+NCBI525,human,skin
+NCBI524,human,skin
+NCBI523,human,skin
+NCBI522,human,skin
+NCBI521,human,skin
+NCBI520,human,skin
+NCBI519,human,skin
+NCBI518,human,skin
+NCBI517,human,skin
+NCBI516,human,skin
+NCBI515,human,skin
+NCBI510,human,skin
+NCBI509,human,skin
+NCBI508,human,skin
+NCBI507,human,skin
+NCBI506,human,skin
+NCBI505,human,skin
+NCBI504,human,skin
+NCBI503,human,skin
+NCBI498,human,skin
+NCBI497,human,skin
+NCBI496,human,skin
+NCBI495,human,skin
+NCBI494,human,skin
+NCBI493,human,skin
+NCBI492,human,skin
+NCBI491,human,skin
+NCBI490,human,skin
+NCBI489,human,skin
+NCBI488,human,skin
+NCBI487,human,skin
+NCBI486,human,skin
+NCBI485,human,skin
+NCBI484,human,skin
+NCBI483,human,skin
+NCBI482,human,skin
+NCBI481,human,skin
+NCBI480,human,skin
+NCBI479,human,skin
+NCBI478,human,skin
+NCBI477,human,skin
+NCBI476,human,skin
+NCBI475,human,skin
+NCBI474,human,skin
+NCBI473,human,skin
+NCBI472,human,skin
+NCBI471,human,skin
+NCBI470,human,skin
+NCBI469,human,skin
+NCBI468,human,skin
+NCBI467,human,skin
+NCBI466,human,skin
+NCBI465,human,skin
+NCBI464,human,skin
+NCBI463,human,skin
+NCBI462,human,skin
+NCBI461,human,skin
+NCBI460,human,skin
+NCBI452,Mus musculus,spinal cord
+NCBI451,Mus musculus,spinal cord
+NCBI450,Mus musculus,spinal cord
+NCBI449,Mus musculus,spinal cord
+NCBI448,Mus musculus,spinal cord
+NCBI447,Mus musculus,spinal cord
+NCBI446,Mus musculus,spinal cord
+NCBI445,Mus musculus,spinal cord
+NCBI444,Mus musculus,spinal cord
+NCBI443,Mus musculus,spinal cord
+NCBI442,Mus musculus,spinal cord
+NCBI441,Mus musculus,spinal cord
+NCBI440,Mus musculus,spinal cord
+NCBI439,Mus musculus,spinal cord
+NCBI438,Mus musculus,spinal cord
+NCBI437,Mus musculus,spinal cord
+NCBI436,Mus musculus,eye
+NCBI435,Mus musculus,eye
+NCBI434,Mus musculus,eye
+NCBI433,Mus musculus,eye
+NCBI4,human,cervix
+NCBI3,human,cervix
+NCBI2,human,cervix
+NCBI1,human,cervix
+MISC32,human,lung
+MISC31,human,lung
+MISC30,human,lung
+MISC29,human,lung
+MISC28,human,lung
+MISC27,human,lung
+MISC26,human,lung
+MISC25,human,lung
+MISC24,human,lung
+MISC23,human,lung
+MISC22,human,lung
+MISC21,human,lung
+MISC20,human,lung
+MISC19,human,lung
+MISC18,human,lung
+MISC17,human,lung
+MISC16,human,lung
+MISC15,human,lung
+MISC14,human,lung
+MISC13,human,lung
+MISC12,human,brain
+MISC11,human,brain
+MISC10,human,brain
+MISC9,human,brain
+MISC8,human,brain
+MISC7,human,brain
+MISC6,human,brain
+MISC5,human,brain
+MISC4,human,brain
+MISC3,human,brain
+MISC2,human,brain
+MISC1,human,brain
