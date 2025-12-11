@@ -1,0 +1,17 @@
+{
+    "output_base_dir": "pipeline_output",
+    "mask_generation_level": -1,
+    "mask_threshold_method": "otsu",
+    "mask_kernel_size": 7,
+    "patch_extraction_level": 0,
+    "patch_size": 224,
+    "patch_stride": 224,
+    "patch_min_mask_coverage": 0.70,
+    "patches_max_to_process": null,
+    "feature_model_name": "hf-hub:bioptimus/H-optimus-0",
+    "feature_batch_size": 16,
+    "feature_force_cpu": false,
+    "clustering_method": "BanditPam",
+    "clustering_k_range": [5,10],
+    "visualization_title": "Visualisation des Clusters"
+  }

@@ -1,20 +1,37 @@
-# Makefile 
 
-# --- Configuration ---
-VENV_DIR = .venv
+# Bio-Swarm Automation Makefile
 
-# --- Cibles Principales ---
-all: install
+PYTHON = python
+SCRIPTS = src/scripts
+DASHBOARD = src/dashboard/app.py
 
-.PHONY: install
-install: $(VENV_PIP)
+.PHONY: help reset train dash serve all
 
-	@echo "--> Installation des dependances depuis requirements.txt..."
-	pip install -r requirements.txt
-	@echo "--> Installation terminee."
+help:
+	@echo "Bio-Swarm Commands:"
+	@echo "  make reset    - Reset experiment logs and checkpoints (Interactive)"
+	@echo "  make train    - Launch RL Training (PPO)"
+	@echo "  make dash     - Generate Static Visualization Report (HTML)"
+	@echo "  make serve    - Launch Live Dash Application (Port 8080)"
+	@echo "  make all      - Run full pipeline: Reset -> Train -> Report"
 
-.PHONY: merge-dataset
-merge-dataset: install
-	@echo "--> Lancement du script de fusion des jeux de données"
-	python merge_dataset/merge_datasets.py
-	@echo "--> Done"
+reset:
+	$(PYTHON) $(SCRIPTS)/reset_experiment.py
+
+train:
+	$(PYTHON) $(SCRIPTS)/train_rl.py
+
+dash:
+	@echo "Generating static report..."
+	$(PYTHON) $(SCRIPTS)/generate_report.py
+	@echo "Report ready at /app/output/bio_swarm_report.html"
+
+serve:
+	@echo "Starting Dashboard on Port 8080..."
+	$(PYTHON) $(DASHBOARD)
+
+all:
+	@echo "Running full pipeline..."
+	make reset
+	make train
+	make dash

@@ -1,13 +1,11 @@
 # Ignore the contents of the "output" folder
 output/*
 !output/.gitkeep
-
+hest_data/*
 # Ignore .svs .tiff files (too heavy)
 *.svs
 *.tiff
 # Ignore requirements (depend on backend)
-requirements.txt
-
 # Environments
 .env
 .venv
@@ -22,3 +20,5 @@ venv.bak/
 
 # Ignorer le fichier d'environnement
 .env
+.cache/
+scratchpad/

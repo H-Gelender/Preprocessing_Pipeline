@@ -1,0 +1,59 @@
+{
+    "gene_panels": {
+        "breast_cancer_grading": {
+            "description": "Standard breast cancer grading markers",
+            "genes": [
+                "ESR1",
+                "PGR",
+                "ERBB2",
+                "MKI67",
+                "TP53",
+                "EGFR"
+            ]
+        },
+        "cytokeratins": {
+            "description": "Cytokeratin markers for epithelial differentiation",
+            "genes": [
+                "KRT5",
+                "KRT14",
+                "KRT19",
+                "KRT7",
+                "KRT8",
+                "KRT18"
+            ]
+        },
+        "brca_genes": {
+            "description": "BRCA tumor suppressor genes",
+            "genes": [
+                "BRCA1",
+                "BRCA2"
+            ]
+        },
+        "proliferation": {
+            "description": "Cell proliferation markers",
+            "genes": [
+                "MKI67",
+                "PCNA",
+                "TOP2A",
+                "MCM2"
+            ]
+        },
+        "immune_markers": {
+            "description": "Immune cell markers",
+            "genes": [
+                "CD3D",
+                "CD4",
+                "CD8A",
+                "CD68",
+                "CD163",
+                "FOXP3"
+            ]
+        }
+    },
+    "active_panels": [
+        "breast_cancer_grading",
+        "cytokeratins"
+    ],
+    "top_genes_count": 10,
+    "coordinate_tolerance": 500
+}

@@ -1,0 +1,12 @@
+services:
+  python:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: preprocessing_kernel
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: [ "tail", "-f", "/dev/null" ]
+    restart: unless-stopped
